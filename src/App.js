@@ -38,7 +38,8 @@ const App = () => {
     return (  
         <div>
            <div className={classes.logoContainer}>
-               <img src='https://www.google.com/search?q=logo&sxsrf=ALeKk00St2uOvbPOkwxTIVUCGJ-JT2jVtA:1624537695971&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSj6vCorDxAhUShVwKHYL1BJUQ_AUoAXoECAEQAw&biw=1302&bih=628' className={classes.alanLogo} alt="alan logo"/>
+               {/* <img   alt="alan logo">FADAHUNSI SEYI</img> */}
+               <h1  className={classes.alanLogo}>FADAHUNSI SEYI</h1>
            </div>
             <NewsCards articles={newsArticles} activeArticle={activeArticle}/>
         </div>
