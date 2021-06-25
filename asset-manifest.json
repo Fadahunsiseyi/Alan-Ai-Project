@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Alan-Ai-Project/static/css/main.dbdccb8b.chunk.css",
+    "main.js": "/Alan-Ai-Project/static/js/main.11abda30.chunk.js",
+    "main.js.map": "/Alan-Ai-Project/static/js/main.11abda30.chunk.js.map",
+    "runtime-main.js": "/Alan-Ai-Project/static/js/runtime-main.3182741e.js",
+    "runtime-main.js.map": "/Alan-Ai-Project/static/js/runtime-main.3182741e.js.map",
+    "static/js/2.1ed4e65f.chunk.js": "/Alan-Ai-Project/static/js/2.1ed4e65f.chunk.js",
+    "static/js/2.1ed4e65f.chunk.js.map": "/Alan-Ai-Project/static/js/2.1ed4e65f.chunk.js.map",
+    "index.html": "/Alan-Ai-Project/index.html",
+    "static/css/main.dbdccb8b.chunk.css.map": "/Alan-Ai-Project/static/css/main.dbdccb8b.chunk.css.map",
+    "static/js/2.1ed4e65f.chunk.js.LICENSE.txt": "/Alan-Ai-Project/static/js/2.1ed4e65f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3182741e.js",
+    "static/js/2.1ed4e65f.chunk.js",
+    "static/css/main.dbdccb8b.chunk.css",
+    "static/js/main.11abda30.chunk.js"
+  ]
+}
